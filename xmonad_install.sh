@@ -8,3 +8,6 @@ ln -s ~/dotfiles/xmonad.hs xmonad.hs
 # xbindkeys for keyword mapping
 sudo apt-get install xbindkeys
 ln -s ~/dotfiles/.xbindkeysrc .xbindkeysrc
+
+# trayer
+sudo apt-get install trayer
