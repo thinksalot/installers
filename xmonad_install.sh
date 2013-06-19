@@ -11,3 +11,6 @@ ln -s ~/dotfiles/.xbindkeysrc .xbindkeysrc
 
 # trayer
 sudo apt-get install trayer
+
+# gui for xrandr
+sudo apt-get install arandr
