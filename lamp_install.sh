@@ -6,3 +6,5 @@ sudo apt-get install phpmyadmin
 
 # change ownership of www folder to current user,www-date group
 sudo chown -R $(whoami):www-data /var/www
+
+sudo apt-get install php-pear
