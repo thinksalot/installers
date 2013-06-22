@@ -32,3 +32,6 @@ git clone git@github.com:vim-scripts/PDV--phpDocumentor-for-Vim.git
 
 # vimwiki
 git clone git@github.com:vim-scripts/vimwiki.git
+
+# snipmate
+git clone git://github.com/msanders/snipmate.vim.git
