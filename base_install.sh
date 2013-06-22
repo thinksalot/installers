@@ -53,3 +53,5 @@ sudo ln -sf /usr/lib/libpython2.7.so.1 /usr/lib/libpython2.7.so.1.0
 
 # git
 sudo apt-get install git
+# use color
+git config --global --add color.ui true
