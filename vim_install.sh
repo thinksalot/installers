@@ -35,3 +35,6 @@ git clone git@github.com:vim-scripts/vimwiki.git
 
 # snipmate
 git clone git://github.com/msanders/snipmate.vim.git
+
+# css color highlight
+git clone git@github.com:skammer/vim-css-color.git
