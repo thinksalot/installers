@@ -38,3 +38,6 @@ git clone git://github.com/msanders/snipmate.vim.git
 
 # css color highlight
 git clone git@github.com:skammer/vim-css-color.git
+
+# space highlight
+git clone git@github.com:jpalardy/spacehi.vim.git
