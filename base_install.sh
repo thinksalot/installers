@@ -6,6 +6,11 @@ sudo apt-get install ubuntu-restricted-extras
 # clone dotfiles
 git clone https://github.com/thinksalot/dotfiles.git ~/dotfiles
 
+# git
+sudo apt-get install git
+# use color
+git config --global --add color.ui true
+
 cd ~/Downloads
 
 ##################################
@@ -51,7 +56,3 @@ sudo apt-get install rabbitvcs-nautilus3 rabbitvcs-cli
 sudo ln -sf /usr/lib/i386-linux-gnu/libpython2.7.so.1 /usr/lib/libpython2.7.so.1
 sudo ln -sf /usr/lib/libpython2.7.so.1 /usr/lib/libpython2.7.so.1.0
 
-# git
-sudo apt-get install git
-# use color
-git config --global --add color.ui true
