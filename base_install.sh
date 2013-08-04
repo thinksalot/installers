@@ -40,7 +40,8 @@ sudo apt-get install nethogs \
 	python-pip \
 	curl \
 	xclip \
-	htop
+	htop \
+	feh
 
 ##################################
 # VCS
