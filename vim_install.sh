@@ -41,3 +41,6 @@ git clone git@github.com:ap/vim-css-color.git
 
 # space highlight
 git clone git@github.com:jpalardy/spacehi.vim.git
+
+# ctrlp
+git clone https://github.com/kien/ctrlp.vim.git
