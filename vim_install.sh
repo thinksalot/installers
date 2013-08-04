@@ -23,6 +23,7 @@ git clone git@github.com:majutsushi/tagbar.git
 
 # powerline
 pip install --user git+git://github.com/Lokaltog/powerline
+git clone git@github.com:Lokaltog/powerline.git
 
 # TComment
 git clone git@github.com:tomtom/tcomment_vim.git
