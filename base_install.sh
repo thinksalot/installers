@@ -11,6 +11,9 @@ sudo apt-get install git
 # use color
 git config --global --add color.ui true
 
+# put hotkeys config in the right place
+ln -s ~/dotfiles/.xbindkeysrc ~/.xbindkeysrc
+
 cd ~/Downloads
 
 ##################################
@@ -55,4 +58,3 @@ sudo apt-get install rabbitvcs-nautilus3 rabbitvcs-cli
 # @link https://code.google.com/p/rabbitvcs/issues/detail?id=803#c21
 sudo ln -sf /usr/lib/i386-linux-gnu/libpython2.7.so.1 /usr/lib/libpython2.7.so.1
 sudo ln -sf /usr/lib/libpython2.7.so.1 /usr/lib/libpython2.7.so.1.0
-
