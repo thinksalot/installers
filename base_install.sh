@@ -3,13 +3,13 @@ sudo apt-get update
 # install restricted packages
 sudo apt-get install ubuntu-restricted-extras
 
-# clone dotfiles
-git clone https://github.com/thinksalot/dotfiles.git ~/dotfiles
-
 # git
 sudo apt-get install git
 # use color
 git config --global --add color.ui true
+
+# clone dotfiles
+git clone https://github.com/thinksalot/dotfiles.git ~/dotfiles
 
 # put hotkeys config in the right place
 ln -s ~/dotfiles/.xbindkeysrc ~/.xbindkeysrc
