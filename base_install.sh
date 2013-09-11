@@ -4,7 +4,8 @@ sudo apt-get update
 sudo apt-get install ubuntu-restricted-extras
 
 # git
-sudo apt-get install git
+# also install the git gui, mainly use to 'git gui blame <file>'
+sudo apt-get install git git-gui
 # use color
 git config --global --add color.ui true
 
