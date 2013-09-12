@@ -37,12 +37,13 @@ sudo apt-get install deluge vlc
 # utilities
 ##################################
 sudo apt-get install nethogs \
-	tasksel \
-	python-pip \
-	curl \
-	xclip \
-	htop \
-	feh
+  tasksel \
+  python-pip \
+  curl \
+  xclip \
+  htop \
+  tree \
+  feh
 
 ##################################
 # VCS
