@@ -45,3 +45,6 @@ git clone git@github.com:jpalardy/spacehi.vim.git
 
 # ctrlp
 git clone https://github.com/kien/ctrlp.vim.git
+
+# delimitmate for closing quotes,brackets,parens
+git clone https://github.com/Raimondi/delimitMate.git
