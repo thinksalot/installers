@@ -48,3 +48,6 @@ git clone https://github.com/kien/ctrlp.vim.git
 
 # delimitmate for closing quotes,brackets,parens
 git clone https://github.com/Raimondi/delimitMate.git
+
+# install syntastic ( syntax checking plugin )
+git clone https://github.com/scrooloose/syntastic.git
