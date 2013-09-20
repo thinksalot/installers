@@ -51,3 +51,6 @@ git clone https://github.com/Raimondi/delimitMate.git
 
 # install syntastic ( syntax checking plugin )
 git clone https://github.com/scrooloose/syntastic.git
+
+# sparkup plugin for vim (pathogen)
+git clone https://github.com/tristen/vim-sparkup
