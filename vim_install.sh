@@ -54,3 +54,7 @@ git clone https://github.com/scrooloose/syntastic.git
 
 # sparkup plugin for vim (pathogen)
 git clone https://github.com/tristen/vim-sparkup
+
+# startify plugin
+# startup vim with recent files, bookmarks, sessions and all
+git clone https://github.com/mhinz/vim-startify.git
