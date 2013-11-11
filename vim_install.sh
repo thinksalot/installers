@@ -34,9 +34,6 @@ git clone git@github.com:vim-scripts/PDV--phpDocumentor-for-Vim.git
 # vimwiki
 git clone git@github.com:vim-scripts/vimwiki.git
 
-# snipmate
-git clone git://github.com/msanders/snipmate.vim.git
-
 # css color highlight
 git clone git@github.com:ap/vim-css-color.git
 
@@ -58,3 +55,12 @@ git clone https://github.com/tristen/vim-sparkup
 # startify plugin
 # startup vim with recent files, bookmarks, sessions and all
 git clone https://github.com/mhinz/vim-startify.git
+
+# matchit : to match html tags
+git clone git@github.com:tsaleh/vim-matchit.git
+
+# easymotion: for easily moving between words
+git clone git@github.com:Lokaltog/vim-easymotion.git
+
+# ultisnips, for snippets management
+git clone git@github.com:SirVer/ultisnips.git
