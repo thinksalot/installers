@@ -31,9 +31,6 @@ git clone git@github.com:tomtom/tcomment_vim.git
 # phpDocumentor
 git clone git@github.com:vim-scripts/PDV--phpDocumentor-for-Vim.git
 
-# vimwiki
-git clone git@github.com:vim-scripts/vimwiki.git
-
 # css color highlight
 git clone git@github.com:ap/vim-css-color.git
 
@@ -64,3 +61,6 @@ git clone git@github.com:Lokaltog/vim-easymotion.git
 
 # ultisnips, for snippets management
 git clone git@github.com:SirVer/ultisnips.git
+
+# Tabularize: for aligning text
+git clone git://github.com/godlygeek/tabular.git
