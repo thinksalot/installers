@@ -64,3 +64,6 @@ git clone git@github.com:SirVer/ultisnips.git
 
 # Tabularize: for aligning text
 git clone git://github.com/godlygeek/tabular.git
+
+# Bling: Blinks search results after jumping
+git clone git@github.com:ivyl/vim-bling.git
