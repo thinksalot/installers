@@ -22,8 +22,7 @@ sudo apt-get install exuberant-ctags
 git clone git@github.com:majutsushi/tagbar.git
 
 # powerline
-pip install --user git+git://github.com/Lokaltog/powerline
-git clone git@github.com:Lokaltog/powerline.git
+git clone https://github.com/bling/vim-airline
 
 # TComment
 git clone git@github.com:tomtom/tcomment_vim.git
@@ -67,3 +66,6 @@ git clone git://github.com/godlygeek/tabular.git
 
 # Bling: Blinks search results after jumping
 git clone git@github.com:ivyl/vim-bling.git
+
+# jsdoc: generate comments for javascript function
+git clone git@github.com:heavenshell/vim-jsdoc.git
