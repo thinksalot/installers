@@ -45,8 +45,8 @@ git clone https://github.com/Raimondi/delimitMate.git
 # install syntastic ( syntax checking plugin )
 git clone https://github.com/scrooloose/syntastic.git
 
-# sparkup plugin for vim (pathogen)
-git clone https://github.com/tristen/vim-sparkup
+# emmet plugin ( to expand html )
+git clone git@github.com:mattn/emmet-vim.git
 
 # startify plugin
 # startup vim with recent files, bookmarks, sessions and all
