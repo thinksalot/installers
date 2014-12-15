@@ -69,3 +69,10 @@ git clone git@github.com:ivyl/vim-bling.git
 
 # jsdoc: generate comments for javascript function
 git clone git@github.com:heavenshell/vim-jsdoc.git
+
+# vimux: so that vim can talk to tmux and launch selenium tests
+git clone git@github.com:benmills/vimux.git
+
+# current-func-info: so that we can filter a particular function
+# when running tests
+git clone git@github.com:tyru/current-func-info.vim.git
