@@ -43,7 +43,8 @@ sudo apt-get install nethogs \
   xclip \
   htop \
   tree \
-  feh
+  feh \
+  gnome-control-center
 
 ##################################
 # VCS
