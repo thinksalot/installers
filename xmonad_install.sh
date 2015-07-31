@@ -1,4 +1,4 @@
-sudo apt-get install xmonad suckless-tools
+sudo apt-get install xmonad suckless-tools xmobar
 
 # xmonad config
 mkdir ~/.xmonad
