@@ -28,6 +28,7 @@ sudo dpkg -i google-chrome-stable_current_i386.deb
 
 # install skype
 wget http://download.skype.com/linux/skype-ubuntu-lucid_4.3.0.37-1_i386.deb
+sudo apt-get install libqt4-webkit
 sudo dpkg -i skype-ubuntu-lucid_4.3.0.37-1_i386.deb
 
 # deluge & vlc
