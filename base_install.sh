@@ -45,7 +45,8 @@ sudo apt-get install nethogs \
   htop \
   tree \
   feh \
-  gnome-control-center
+  gnome-control-center \
+  tmux
 
 ##################################
 # VCS
