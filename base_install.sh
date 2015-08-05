@@ -46,7 +46,10 @@ sudo apt-get install nethogs \
   tree \
   feh \
   gnome-control-center \
-  tmux
+  tmux \
+  build-essential \
+  cmake \
+  python-dev
 
 ##################################
 # VCS
