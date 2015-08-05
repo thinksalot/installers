@@ -76,3 +76,6 @@ git clone git@github.com:benmills/vimux.git
 # current-func-info: so that we can filter a particular function
 # when running tests
 git clone git@github.com:tyru/current-func-info.vim.git
+
+# surround plugin
+git clone git@github.com:tpope/vim-surround.git
