@@ -5,6 +5,9 @@ sudo apt-get install vim vim-gui-common vim-runtime
 # create symbolic link to .vimrc
 ln -s ~/dotfiles/.vimrc ~/.vimrc
 
+# create config for tmux
+ln -s ~/dotfiles/.tmux.conf ~/.tmux.conf
+
 # install pathogen for plugin management
 # https://github.com/tpope/vim-pathogen#installation
 mkdir -p ~/.vim/autoload ~/.vim/bundle; \
