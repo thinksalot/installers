@@ -27,9 +27,10 @@ sudo apt-get install libgconf2-4 libxss1
 sudo dpkg -i google-chrome-stable_current_i386.deb
 
 # install skype
-wget http://download.skype.com/linux/skype-ubuntu-lucid_4.3.0.37-1_i386.deb
-sudo apt-get install libqt4-webkit
-sudo dpkg -i skype-ubuntu-lucid_4.3.0.37-1_i386.deb
+# https://help.ubuntu.com/community/Skype
+sudo dpkg --add-architecture i386
+sudo add-apt-repository "deb http://archive.canonical.com/ $(lsb_release -sc) partner"
+sudo apt-get update && sudo apt-get install skype
 
 # deluge & vlc
 sudo apt-get install deluge vlc
@@ -56,14 +57,5 @@ sudo apt-get install nethogs \
 ##################################
 
 # svn 
-sudo apt-get install subversion
-
-# rabitcvs extension for nautilus
-sudo add-apt-repository ppa:rabbitvcs/ppa
-sudo apt-get update
-sudo apt-get install rabbitvcs-nautilus3 rabbitvcs-cli
-
-# rabbitvcs fix for nautilus in 13.04
-# @link https://code.google.com/p/rabbitvcs/issues/detail?id=803#c21
-sudo ln -sf /usr/lib/i386-linux-gnu/libpython2.7.so.1 /usr/lib/libpython2.7.so.1
-sudo ln -sf /usr/lib/libpython2.7.so.1 /usr/lib/libpython2.7.so.1.0
+# http://askubuntu.com/a/766229
+sudo apt-get install subversion rabbitvcs*
