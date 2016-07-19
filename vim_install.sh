@@ -9,7 +9,7 @@ ln -s ~/dotfiles/.vimrc ~/.vimrc
 # https://github.com/tpope/vim-pathogen#installation
 mkdir -p ~/.vim/autoload ~/.vim/bundle; \
 curl -Sso ~/.vim/autoload/pathogen.vim \
-    https://raw.github.com/tpope/vim-pathogen/master/autoload/pathogen.vim
+  https://raw.githubusercontent.com/tpope/vim-pathogen/master/autoload/pathogen.vim
 
 # plugin path
 cd ~/.vim/bundle
@@ -53,7 +53,7 @@ git clone git@github.com:mattn/emmet-vim.git
 git clone https://github.com/mhinz/vim-startify.git
 
 # matchit : to match html tags
-git clone git@github.com:tsaleh/vim-matchit.git
+git@github.com:vim-scripts/matchit.zip.git
 
 # easymotion: for easily moving between words
 git clone git@github.com:Lokaltog/vim-easymotion.git
