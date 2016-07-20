@@ -1,1 +1,1 @@
-A collection of install scripts for ubuntu 14.04 system.
+A collection of install scripts for Ubuntu 16.04 64 bit system.
