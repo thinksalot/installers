@@ -15,6 +15,8 @@ git clone https://github.com/thinksalot/dotfiles.git ~/dotfiles
 # put hotkeys config in the right place
 ln -s ~/dotfiles/.xbindkeysrc ~/.xbindkeysrc
 
+ln -s ~/dotfiles/.tmux.conc
+
 cd ~/Downloads
 
 ##################################
